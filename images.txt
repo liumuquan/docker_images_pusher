@@ -1,8 +1,4 @@
-tomcat:8.5.100-jre21
-tomcat:8.5.100-jre8
-tomcat
 mysql:8.0
-jenkins:2.32.3
 jenkins
 rabbitmq
 rabbitmq:3.7.13
