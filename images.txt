@@ -1,1 +1,4 @@
-centos:centos7
+centos:centos8.4.2105
+ubuntu:latest
+ubuntu:24.04
+ubuntu:22.04
