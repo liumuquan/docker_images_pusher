@@ -1,1 +1,1 @@
-tmocat:8.5
+centos:centos7
