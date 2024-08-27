@@ -1,4 +1,4 @@
-centos:centos8.4.2105
-ubuntu:latest
-ubuntu:24.04
-ubuntu:22.04
+kubernetesui/dashboard:latest
+kubernetesui/dashboard:v2.4.0
+kubernetesui/metrics-scraper:latest
+kubernetesui/metrics-scraper:v1.0.7
