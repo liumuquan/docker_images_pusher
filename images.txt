@@ -1,3 +1,1 @@
-lizhenliang/nfs-client-provisioner:v2.0.0
-zhaoguanghui6/nfs-client-provisioner:v4.0.1
-wuqiong/nfs-client-provisioner:v3.1.0-k8s1.11
+ysicing/nfs-client-provisioner:v3.1.0-k8s1.11
