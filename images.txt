@@ -1,4 +1,3 @@
-kubernetesui/dashboard:latest
-kubernetesui/dashboard:v2.4.0
-kubernetesui/metrics-scraper:latest
-kubernetesui/metrics-scraper:v1.0.7
+lizhenliang/nfs-client-provisioner:v2.0.0
+zhaoguanghui6/nfs-client-provisioner:v4.0.1
+wuqiong/nfs-client-provisioner:v3.1.0-k8s1.11
