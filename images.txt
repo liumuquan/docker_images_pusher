@@ -1,2 +1,1 @@
-nginx:1.12.0-alpine
-nginx:1.13.2-alpine-perl
+ysicing/nfs-client-provisioner:latest
