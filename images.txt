@@ -1,1 +1,2 @@
-ysicing/nfs-client-provisioner:v3.1.0-k8s1.11
+nginx:1.12.0-alpine
+nginx:1.13.2-alpine-perl
