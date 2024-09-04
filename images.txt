@@ -1,1 +1,4 @@
-ysicing/nfs-client-provisioner:latest
+busybox:latest
+redis:6-alpine3.12
+ubuntu:artful-20170619
+ubuntu:artful-20180706
